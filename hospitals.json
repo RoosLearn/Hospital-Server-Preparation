@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pandas Hospital",
+    "patientCount": 50,
+    "location": "Panda World"
+  },
+  {
+    "name": "Teddy's Hospital",
+    "patientCount": 100,
+    "location": "Los Angeles"
+  },
+  {
+    "name": "Serenity Hospital",
+    "patientCount": 75,
+    "location": "Chicago"
+  },
+  {
+    "name": "Pet Hospital",
+    "patientCount": 10,
+    "location": "New York"
+  }
+]
