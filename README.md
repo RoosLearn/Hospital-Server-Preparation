@@ -8,4 +8,4 @@
 
 * To PUT or Update, Change the beeded information.
 
-*To DELETE a specific Hospital, use DELETE
+* To DELETE a specific Hospital, use DELETE
